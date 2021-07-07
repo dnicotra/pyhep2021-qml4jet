@@ -1,4 +1,8 @@
 # Quantum Machine Learning for jet tagging at LHCb - PyHEP 2021
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dnicotra/pyhep2021-qml4jet/HEAD)
+
+
 This repository contains an example code for PyHEP 2021.
 
 At LHCb, b-jets are tagged using several methods, some of them with high efficiency  but low purity or high purity and low efficiency. Particularly our aim is to  identify  jets produced by <img src="https://render.githubusercontent.com/render/math?math=b"> and <img src="https://render.githubusercontent.com/render/math?math=\bar{b}"> quarks, which is fundamental to perform important physics searches, *e.g.* the measurement of the <img src="https://render.githubusercontent.com/render/math?math=b-\bar{b}"> charge asymmetry, which could be sensitive to New Physics processes.
