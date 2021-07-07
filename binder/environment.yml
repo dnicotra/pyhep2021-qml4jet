@@ -199,4 +199,4 @@ dependencies:
     - pennylane==0.16.0
     - semantic-version==2.6.0
     - toml==0.10.2
-prefix: /home/eliuz/anaconda3/envs/pyhepqml
+prefix: ~/anaconda3/envs/pyhepqml
