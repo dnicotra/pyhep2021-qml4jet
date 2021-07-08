@@ -4,6 +4,7 @@
 
 
 This repository contains an example code for PyHEP 2021.
+Presentation slides are [here](https://indico.cern.ch/event/1019958/contributions/4419749/).
 
 At LHCb, b-jets are tagged using several methods, some of them with high efficiency  but low purity or high purity and low efficiency. Particularly our aim is to  identify  jets produced by <img src="https://render.githubusercontent.com/render/math?math=b"> and <img src="https://render.githubusercontent.com/render/math?math=\bar{b}"> quarks, which is fundamental to perform important physics searches, *e.g.* the measurement of the <img src="https://render.githubusercontent.com/render/math?math=b-\bar{b}"> charge asymmetry, which could be sensitive to New Physics processes.
 
