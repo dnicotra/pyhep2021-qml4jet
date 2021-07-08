@@ -1,6 +1,7 @@
 # Quantum Machine Learning for jet tagging at LHCb - PyHEP 2021
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dnicotra/pyhep2021-qml4jet/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.5081957/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081957.svg)](https://doi.org/10.5281/zenodo.5081957)
 
 
 This repository contains an example code for PyHEP 2021.
@@ -14,7 +15,7 @@ This exercise is based on [official LHCb Open Data](https://opendata.cern.ch/rec
 
 ## How to run the exercise
 ### Option 1 - Run it remotely with Binder
-Just click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dnicotra/pyhep2021-qml4jet/HEAD) and wait for a Jupyter Notebook to show up and open the `qml4jets.ipynb` notebook.
+Just click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.5081957/) and wait for a Jupyter Notebook to show up and open the `qml4jets.ipynb` notebook.
 
 This option is recommended for a quick evaluation of the code, however, if you want to feed the QML model with more events, you have to run it locally.
 
